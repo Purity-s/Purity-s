@@ -1,5 +1,5 @@
 - 👋 Hello there my name is Purity Muchiri a motivated and upcoming software developer.
-- 👀 I’m interested in software development working with fron-end and back-end technologies.
+- 👀 I’m interested in software development working with front-end and back-end technologies.
 - 🌱 I’m currently learning python, javascript, php, sql.
 - 💞️ I’m looking for fullstack development roles that will help me enhance my skills.
 - 📫 How to reach me:
